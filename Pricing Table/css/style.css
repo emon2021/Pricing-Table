@@ -1,0 +1,57 @@
+*{margin:0;padding:0;}
+
+
+
+.box_table {width: 100%;}
+.title_box {
+    margin-bottom: 40px;
+}
+.single_box {
+    background: white;
+    box-shadow: 0px 0px 15px 2px #d0d0d0c4;
+    padding: 30px;
+    border-radius: 8px;
+    text-align:center;
+}
+section#pricing_table {
+    padding-bottom: 100px;
+	padding-top:20px;
+}
+.single_box p {
+    line-height: 16px;
+    font-family: sans-serif;
+    font-size: 17px;
+}
+h1.month {
+    margin-bottom: 27px;
+    font-size: 35px;
+    font-family: arial black;
+    color: #ff6f1b;
+}
+h1.box_title {
+    font-size: 30px;
+    color: #636363;
+    font-weight: 700;
+}
+a.btn.btn-success.btn_design {
+    background: linear-gradient(45deg, #FF9800, #DC24DE);
+    border: none;
+    border-radius: 30px;
+    padding: 6px 65px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: arial;
+    margin-top: 12px;
+}
+.title_box h2 {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: arial;
+    color: #484848;
+}
+.title_box span {
+    font-size: 25px;
+    font-family: arial;
+    color: #505050;
+}
+.col-md-4 {float: left;}
